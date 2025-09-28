@@ -1,0 +1,5 @@
+# Example variable values for the hello-world example
+# Copy this file to terraform.tfvars and customize the values
+
+student_name = "Your Name Here"
+course_name  = "Terraform Associate Certification"
